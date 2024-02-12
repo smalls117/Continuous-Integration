@@ -1,0 +1,1 @@
+[![Build C++](https://github.com/smalls117/Continuous-Integration/actions/workflows/actions.yml/badge.svg)](https://github.com/smalls117/Continuous-Integration/actions/workflows/actions.yml)
